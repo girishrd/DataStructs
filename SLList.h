@@ -7,9 +7,9 @@
 
 long g_LISTSIZE=0;
 
-#ifdef DEBUG
+
 	long deallocCount=1;
-#endif
+
 
 
 //----list class--------------------------------------------------------
